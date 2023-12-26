@@ -4,7 +4,7 @@ import FormattedDate from '@/components/FormattedDate'
 import BaseLayout from '@/layouts/BaseLayout'
 import Tag from '@/components/Tag'
 import type { MarkdownHeading } from 'astro'
-import { Image } from 'astro:assets'
+import { Image, Picture } from 'astro:assets'
 
 type Props = {
 	id: CollectionEntry<'blog'>['id']
@@ -50,14 +50,14 @@ const articleDate = pubDate.toISOString()
 			{
 				heroImage && (
 					<Image
-						src={heroImage}
+						src={heroImage.src}
 						width={1000}
 						height={500}
 						quality={100}
-						format='jpg'
+						format={'webp'}
 						loading='eager'
 						class='rounded-md w-full max-h-[300px]  md:max-h-[500px] my-8 object-cover'
-						alt={`img of ${title}`}
+						alt={`Imagen de ${title}`}
 					/>
 				)
 			}
