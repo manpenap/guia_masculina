@@ -7,7 +7,7 @@ category: Sexualidad y Erotismo
 
 description: Maximiza la satisfacción en pareja con estas 4 estrategias para potenciar tu vida sexual. Consejos expertos para vivir momentos íntimos más plenos y gratificantes.
 pubDate: 2023-12-28T12:00:00.000Z
-tags: [Erotismo, Comunicación-efectiva, Vida-sexual]
+tags: [Erotismo, Comunicacion-efectiva, Vida-sexual]
 draft: false
 ---
 
