@@ -6,8 +6,8 @@ heroImage: {
 category: Sexualidad y Erotismo
 
 description: "¿Buscas mantener viva la pasión en tu relación? Explora consejos prácticos y técnicas para descubrir nuevas fantasías íntimas. Una guía masculina para renovar la chispa en el amor y desafiar los límites de la intimidad."
-pubDate: 2023-12-25T03:00:00.000Z
-tags: [Exploración erótica, Fantasías sexuales, Vida sexual]
+pubDate: 2024-01-02T10:15:00.000Z
+tags: [fantasias-sexuales, vida-sexual, erotismo]
 draft: false
 ---
 
