@@ -7,7 +7,7 @@ category: Consejos de Seducción
 
 description: Descubre los secretos que hacen a un hombre irresistible. Aprende técnicas de seducción y actitudes que cautivan. ¡Conviértete en un imán para el éxito en las relaciones!
 pubDate: 2023-12-26T03:00:00.000Z
-tags: [Seduccion, Comunicacion-efectiva, Autoconfianza]
+tags: [seduccion, comunicacion-efectiva, autoconfianza]
 draft: false
 ---
 

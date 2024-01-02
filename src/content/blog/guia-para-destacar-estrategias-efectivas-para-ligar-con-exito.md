@@ -7,7 +7,7 @@ category: Consejos de Seducción
 
 description: "Conoce las mejores estrategias para llamar la atención al ligar. Desde consejos visuales hasta técnicas de conversación, aprende cómo ser notado en el amor con nuestras estrategias comprobadas para el éxito en el arte del cortejo."
 pubDate: 2024-01-01T21:00:00.000Z
-tags: [Seducción masculina]
+tags: [seduccion]
 draft: false
 ---
 
