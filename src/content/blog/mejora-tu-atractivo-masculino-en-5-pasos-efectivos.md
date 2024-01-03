@@ -6,8 +6,8 @@ heroImage: {
 category: 'Crecimiento Personal'
 
 description: "Transforma tu cuerpo y seduce en el amor con nuestra guía. Descubre la importancia del físico en las relaciones, consejos de nutrición, rutinas de ejercicio efectivas y cuidado personal para potenciar tu confianza y éxito amoroso."
-pubDate: 2023-12-25T03:00:00.000Z
-tags: [Autoconfianza, Autoestima, Atracción física]
+pubDate: 2024-01-03T16:24:00.000Z
+tags: [autoconfianza, autoestima, atraccion-fisica]
 draft: false
 ---
 
