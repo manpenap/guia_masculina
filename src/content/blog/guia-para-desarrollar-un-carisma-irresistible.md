@@ -6,8 +6,8 @@ heroImage: {
 category: Consejos de Seducción
 
 description: "Desarrolla un carisma magnético y conquista el amor. Descubre secretos para potenciar tu atractivo en las relaciones románticas. Esta guía te brinda las claves para ser irresistible."
-pubDate: 2023-12-24T03:00:00.000Z
-tags: [Seducción masculina, Carisma]
+pubDate: 2024-01-04T10:50:00.000Z
+tags: [seduccion, carisma]
 draft: false
 ---
 
