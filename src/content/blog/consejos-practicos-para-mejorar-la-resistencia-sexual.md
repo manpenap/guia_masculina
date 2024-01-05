@@ -7,7 +7,7 @@ category: Sexualidad y Erotismo
 
 description: "¿Buscas durar más en la cama? Encuentra en nuestra guía masculina consejos prácticos, técnicas efectivas y la importancia de la comunicación para mejorar tu resistencia sexual. ¡Optimiza tu desempeño íntimo hoy!"
 pubDate: 2024-01-05T12:25:00.000Z
-tags: [Vida-sexual]
+tags: [vida-sexual]
 draft: false
 ---
 
