@@ -6,7 +6,7 @@ heroImage: {
 category: 'Crecimiento Personal'
 
 description: "Supera relaciones tóxicas con nuestra guía especializada para hombres. Desde reconocer patrones hasta estrategias de cambio y construcción de relaciones saludables, este artículo te brinda las claves para romper cadenas y construir un futuro emocionalmente saludable. ¡Comienza tu transformación hoy!"
-pubDate: 2024-01-22T03:00:00.000Z
+pubDate: 2024-01-22T11:42:00.000Z
 tags: [relaciones ]
 draft: false
 ---
