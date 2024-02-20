@@ -1,12 +1,12 @@
 ---
-title: "Guía para Aumentar la Libido Masculina: Estrategias para Avivar tu Energía Sexual"
+title: "Estrategias para Avivar tu Energía Sexual"
 heroImage: {
 	src: "https://images.pexels.com/photos/1581643/pexels-photo-1581643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 }
 category: Sexualidad y Erotismo
 
 description: "Estrategias efectivas para aumentar la libido masculina y mantener una energía sexual vibrante. Descubre hábitos saludables y consejos prácticos para revitalizar tu vida amorosa."
-pubDate: 2024-01-12T12:00:00.000Z
+pubDate: 2024-01-11T17:20:00.000Z
 tags: [vida-sexual, vigor]
 draft: false
 ---
